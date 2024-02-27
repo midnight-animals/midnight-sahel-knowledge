@@ -35,6 +35,9 @@
    1. #tip_extra_sections
 3. Search the internet for hits related to that topic and go back to point (1.)
 
+Related external links
+https://thinkingispower.com/how-to-do-your-own-research/
+
 ### 1.2 Fact check
 1. Restate the fact(s), that should be checked
 2. Research the fact
