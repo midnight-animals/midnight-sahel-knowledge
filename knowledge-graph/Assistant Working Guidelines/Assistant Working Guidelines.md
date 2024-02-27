@@ -9,7 +9,8 @@
 - Do the task
 	- Update the #Tracking_issue in the #Project_board 
 	- #tip_initial_reflection
-- Deliver result
+	- #tip_extra_sections
+- Deliver result ^da1fe6
 	- Notify task giver of results
 	- Update the #Project_board 
 - Optional
@@ -19,6 +20,8 @@
 ## 1. Kind of tasks
 #guideline 
 ### 1.1 Research a topic
+^581c31
+
 1. Focus on the website of the topic (else jump to point (3.))
    1. Find 3 interesting #Sub-pages
       1. #tip_navigation_menu
@@ -33,7 +36,11 @@
 3. Search the internet for hits related to that topic and go back to point (1.)
 
 ### 1.2 Fact check
-
+1. Restate the fact(s), that should be checked
+2. Research the fact
+	1. You can follow [[Assistant Working Guidelines#^581c31]]
+	2. In this task, providing sources is important!
+3. Complete the fact checking as you would "Deliver results" [[Assistant Working Guidelines#^da1fe6]]
 ## 2. Task Examples
 ### 2.1 Research Example
 I'll will provide an example via https://oddly-podcast.com

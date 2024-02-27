@@ -1,7 +1,9 @@
-# Tips
 
 #tip_extra_sections
-- IF other websites seem interesting themselves, add that to footnotes/misc/recommendation section
+- IF a piece of information seems interesting itself, add that to a separate Footnotes/Misc/Note-worthy/Recommendation section
+	- Examples
+		- Biography about a person
+		- Related keywords to a topic
 
 #tip_initial_reflection
 - Take a step back and see how you are doing with a given task. 
@@ -16,6 +18,8 @@
 - Navigation menu can give you a hint about what the page owners consider *main sub-pages*
 
 ## 80-20 Rules
+> 80% of the task should be done in 20% of the time
+> "The majority of a task should be done in a minimal amount of the time"
 
 #tip_8020_repeated_information
 - If you deem the amount of repeated items to be manageable, then included all the items (eg. 30 items)
