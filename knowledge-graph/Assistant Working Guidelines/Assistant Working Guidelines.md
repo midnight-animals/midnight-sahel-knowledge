@@ -3,6 +3,7 @@
 - Receive task
 	- Create a #Tracking_issue and add it to the  #Project_board
 	- Estimate how much time you will spend on the task
+	- **Await the task being triaged by Requester**
 	- Provide quick action plan, or choose a #guideline from #Knowledge_base
 	- All tasks are to be done inside #Documents
 	- When there are too many tasks follow the Issue #Priority
