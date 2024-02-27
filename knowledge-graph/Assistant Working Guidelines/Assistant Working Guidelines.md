@@ -1,4 +1,4 @@
-- 
+
 ## 0. Process
 - Receive task
 	- Create a #Tracking_issue and add it to the  #Project_board
