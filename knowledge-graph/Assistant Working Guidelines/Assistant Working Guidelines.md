@@ -53,8 +53,9 @@ https://thinkingispower.com/how-to-do-your-own-research/
 3. Complete the fact checking as you would "Deliver results" [[Assistant Working Guidelines#^da1fe6]]
 
 ### 2.3 Acknowledging guidelines
-1. When there are new or updated guidelines out
-	1. in the form of Pull requests to the #Knowledge_base 
+1. When there are new or updated guidelines out, eg. in the form of Pull requests to the #Knowledge_base , then please approve the Pull request, to acknowledge the changes.
+	1. You are expected to incorporate the updated points in your workflow
+	2. Ideally, all updated points are incorporated. Else, slowly over-time is fine
 
 ## 3. Examples
 
