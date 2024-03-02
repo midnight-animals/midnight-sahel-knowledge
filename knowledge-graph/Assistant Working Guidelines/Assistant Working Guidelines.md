@@ -1,6 +1,6 @@
 
 ## 0. Background Need
-The need for an assistant arises, when a person 
+The need for an assistant arises, when a person
 1. has a long todo list, but not enough time
 2. wants to record their thoughts from one medium to another
 
@@ -61,7 +61,7 @@ https://thinkingispower.com/how-to-do-your-own-research/
 
 ### 3.1 Examples for Background Need
 1. long todo list
-	1. Due to priority reasons, when researching a topic, there is not enough not time to go too deep into the subject, or other interesting topics emerged from the initial research, eg: 
+	1. Due to priority reasons, when researching a topic, there is not enough not time to go too deep into the subject, or other interesting topics emerged from the initial research, eg:
 		1. I research topic A, but going deeper takes more time then available
 		2. I research topic A, but topic B emerges as also interesting, so I want to check out topic B too
 2. Record thoughts
