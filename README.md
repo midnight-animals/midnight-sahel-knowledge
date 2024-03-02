@@ -11,3 +11,4 @@ Our Collective aims to also connect the more extreme sides which are represented
 ### Repository setup
 1. Knowledge base (this repositoy)
 2. Monorepo for development (https://github.com/midnight-animals/midnight-highgrass-code)
+
