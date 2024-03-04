@@ -6,6 +6,7 @@
 
 #Kanban
 - [ ] Link to external resources explaining Kanban
+- You may act according to your own sense (eg. don't follow the kanban), if you deem "more efficient", but please ping/notify the Requester for a quick okay.
 - Currently
   - Triage
     - It is important, that a task is created at all
