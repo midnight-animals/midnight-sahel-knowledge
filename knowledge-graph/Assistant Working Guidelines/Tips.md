@@ -29,3 +29,32 @@
 		- Most recent
 		- Most viewed
 		- etc
+
+#focus 
+* Deep good quality work
+
+* I avoid “multi-tasking”, because context switching is a focus killer.
+* Do you know “flow state”? &rarr; Get to that state
+
+* Because you only have so much time in one day, you have to choose
+
+#benefitial tasks
+There is a pitfall to "most benefit" though, because we will tend to over-optimize finding tasks, that bring the most benefit.
+
+## Productivity Optimazation
+### Misconception
+* That people can be productive or focus on work 24/7 to the same effectiveness
+* That people can multi-tasks leading to more results produced &rarr; Focus leads to high quality work 
+* That appears busy is productive
+* That people don't do random things in their work hours
+
+### How to improve productive & produce deep good quality work
+* **Priority task**
+  * Do task that bring in the most benefit
+  * Potential Pit-trap: To find the task is most benefitial, many would find themselves stuck in a "planning" stage, over-optimazing finding tasks, resulting in more time spent planning than actually doing
+   &rarr; **Recognize and be decisive** when it is time to stop planning and do the tasks 
+* **Focus in deep high quality work**
+  * Get to know your rhythm 
+  * Example: "put [focus](#focus) and doing [beneficial tasks](#benefitial-tasks) work into times, where you can concentrate the most, or "feel most productive", which could be 4-6 hours a day. And maybe chunked into different times of the day.
+So dont feel "forced" to have productive consecutive 4-6h"
+  * Leave the rest of the time doing boring tasks
