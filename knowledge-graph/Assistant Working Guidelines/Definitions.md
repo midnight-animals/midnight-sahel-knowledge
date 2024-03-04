@@ -16,12 +16,15 @@
       - a background explaining why the task is needed
       - a description providing further information for assignee
       - a goal, that should be achieved
+    - Read: The task needs to be triaged to ensure all the necessary information was provided
   - Backlog
     - Triaged, but not a priority
     - It was chosen to add another column, instead of just ranking tickets by priority, because the "Selected" column could become really long, thus feels overwhelming
+    - Read: "The task is in the backlog, and awaits focus"
   - Selected
     - The task was triaged, and can be picked up to work on
     - It is expected that the necessary information is available
+    - Read: "We select the task to be available to work on"
   - In Progress
     - The task is being worked on
   - Done
