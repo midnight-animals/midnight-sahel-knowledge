@@ -23,11 +23,14 @@
 - Medium
 - Low
 
-#Project_board 
+#Project_board
 - Currently https://github.com/midnight-animals/midnight-sahel-knowledge/issues
 
 #Sub-pages
  - A route in the url (eg. main: www.website.com, sub page: website.com/sub-page)
+
+#Ticket
+see #Tracking_issue
 
 #Tracking_issue
 - Currently https://github.com/midnight-animals/midnight-sahel-knowledge/issues

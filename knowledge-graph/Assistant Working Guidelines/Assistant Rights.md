@@ -1,3 +1,3 @@
 - Also, you are always free to share your thoughts, and any other issue/topic with me!
-- I may not immediately answer to those, in which case you can create a ticket
+- I may not immediately answer to those, in which case you can create a #Ticket
 - when I say "I will get back to you tmr", and I'm not getting back to you, you can absolutely ping me
