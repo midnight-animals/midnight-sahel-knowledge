@@ -13,6 +13,7 @@ The need for an assistant arises, when a person
 	4. Provide quick action plan, or choose a #guideline from #Knowledge_base
 	5. All tasks are to be done inside #Documents
 	6. When there are too many tasks follow the Issue #Priority
+	7. Make sure, the Requester has provided goals to the task. Without a goal, the intention of the requester may not be obvious
 2. Do the task
 	1. Update the #Tracking_issue in the #Project_board
 	2. #tip_initial_reflection
@@ -41,6 +42,8 @@ The need for an assistant arises, when a person
 2. Follow links through other websites
    1. #tip_extra_sections
 3. Search the internet for hits related to that topic and go back to point (1.)
+4. Always include sources of your research
+	 1. Annotate paragraphs or sentences with corresponding source
 
 Related external links
 https://thinkingispower.com/how-to-do-your-own-research/
